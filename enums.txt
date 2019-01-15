@@ -1,0 +1,16 @@
+CORE         : Starting Cards
+EXPERT1      : Tutorial Rewards
+HOF          : Hall of Fame
+NAXX         : Naxxaramas
+GVG          : Goblins vs Gnomes
+BRM          : Blackrock Mountain
+TGT          : The Grand Tournament
+LOE          : League of Explorers
+OG           : Old Gods
+KARA         : Karazhan
+GANGS        : Mean Streets of Gadgetzan
+UNGORO       : Journey to Ungoro
+ICECROWN     : Knights of the Frozen Throne
+LOOTAPALOOZA : Kobolds and Catacombs
+GILNEAS      : Witchwood
+BOOMSDAY     : The Boomsday Project
